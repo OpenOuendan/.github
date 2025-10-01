@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="assets/fulllogo.svg" alt="OpenOuendan Logo" width="500"/>
+  <img src="https://raw.githubusercontent.com/OpenOuendan/.github/refs/heads/main/assets/fulllogo.svg" alt="OpenOuendan Logo" width="500"/>
 </div>
 
 ---
